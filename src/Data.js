@@ -1,0 +1,73 @@
+const data = [
+  {
+    id: 1,
+    name: "Room Luxe",
+    location: "Paris",
+    price: 200,
+    image: "../images/room1.jpg",
+  },
+  {
+    id: 2,
+    name: "Room Relax",
+    location: "Marseille",
+    price: 150,
+    image: "../images/room2.jpg",
+  },
+  {
+    id: 3,
+    name: "Room Soleil",
+    location: "Nice",
+    price: 180,
+    image: "../images/room3.jpg",
+  },
+  {
+    id: 4,
+    name: "Room Riviera",
+    location: "Cannes",
+    price: 250,
+    image: "../images/room4.jpg",
+  },
+  {
+    id: 5,
+    name: "Room Vista",
+    location: "Lyon",
+    price: 220,
+    image: "../images/room5.jpg",
+  },
+  {
+    id: 6,
+    name: "Room Palms",
+    location: "Biarritz",
+    price: 230,
+    image: "../images/room6.jpg",
+  },
+  {
+    id: 7,
+    name: "Room Majestic",
+    location: "Monaco",
+    price: 500,
+    image: "../images/room7.jpg",
+  },
+  {
+    id: 8,
+    name: "Room Tranquil",
+    location: "Toulouse",
+    price: 190,
+    image: "../images/room1.jpg",
+  },
+  {
+    id: 9,
+    name: "Room Prestige",
+    location: "Lille",
+    price: 210,
+    image: "../images/room1.jpg",
+  },
+  {
+    id: 10,
+    name: "Room Horizon",
+    location: "Corsica",
+    price: 300,
+    image: "../images/room2.jpg",
+  },
+];
+export default data;
